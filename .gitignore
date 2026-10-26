@@ -1,0 +1,10 @@
+# CMake build output
+/build/
+/cmake-build-*/
+CMakeUserPresets.json
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
